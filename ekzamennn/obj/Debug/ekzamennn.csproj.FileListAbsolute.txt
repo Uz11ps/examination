@@ -1,0 +1,161 @@
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\App.g.cs
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\1\source\repos\ekzamennn\ekzamennn\bin\Debug\ekzamennn.exe.config
+C:\Users\1\source\repos\ekzamennn\ekzamennn\bin\Debug\ekzamennn.exe
+C:\Users\1\source\repos\ekzamennn\ekzamennn\bin\Debug\ekzamennn.pdb
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\MainWindow.baml
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.g.resources
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.Properties.Resources.resources
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.GenerateResource.cache
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.exe
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn.pdb
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\1\source\repos\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageSaleHistory.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\App.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.exe
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.pdb
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.AssemblyReference.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\Pages\PageSaleHistory.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\App.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\ДИЧЬ\Программы C#\Демонстрационный экзамен\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csprojAssemblyReference.cache
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageSaleHistory.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\App.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\test\OneDrive - Moscow University of Finance and Law\Рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageSaleHistory.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\App.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\App.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\MainWindow.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\PageSaleHistory.baml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.g.resources
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.pdb
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\ekzamennn.exe.config
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\ekzamennn.exe
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\ekzamennn.pdb
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\EntityFramework.dll
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\EntityFramework.xml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.Properties.Resources.resources
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.GenerateResource.cache
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.CoreCompileInputs.cache
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.CopyComplete
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\ekzamennn.exe
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\Auto.g.cs
+C:\Users\29328498\Desktop\ekzamennn\ekzamennn\obj\Debug\Pages\Auto.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\ekzamennn.exe.config
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\ekzamennn.exe
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\ekzamennn.pdb
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\EntityFramework.dll
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\EntityFramework.xml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\Auto.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\App.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\MainWindow.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\Auto.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageAddProduct.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageEditNew.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageMain.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageProduct.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\Pages\PageSaleHistory.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.g.resources
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.Properties.Resources.resources
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.GenerateResource.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.CoreCompileInputs.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\ekzamennn\ekzamennn\obj\Debug\ekzamennn.csproj.CopyComplete
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\ekzamennn.exe.config
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\ekzamennn.exe
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\ekzamennn.pdb
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\EntityFramework.dll
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\EntityFramework.xml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\Auto.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageSaleHistory.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\App.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\App.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\MainWindow.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\Auto.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageAddProduct.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageEditNew.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageMain.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageProduct.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\Pages\PageSaleHistory.baml
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.g.resources
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.Properties.Resources.resources
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.csproj.GenerateResource.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.csproj.CoreCompileInputs.cache
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.csproj.CopyComplete
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.exe
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.pdb
+C:\Users\Артём\OneDrive\Мой рабочий стол\examinationSolo\ekzamennn\obj\Debug\ekzamennn.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\Pages\Auto.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\Pages\PageMain.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\Pages\PageSaleHistory.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\App.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn_Content.g.cs
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.cache
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn_MarkupCompile.lref
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn.exe
+C:\Users\1\Desktop\examinationSolo\ekzamennn\obj\Debug\ekzamennn.pdb

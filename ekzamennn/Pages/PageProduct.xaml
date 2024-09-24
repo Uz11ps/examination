@@ -1,0 +1,106 @@
+﻿<Page x:Class="ekzamennn.Pages.PageProduct"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ekzamennn.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PageProduct">
+
+    <Grid>
+        <ScrollViewer>
+
+
+
+
+            <StackPanel Orientation="Vertical">
+                <TextBox x:Name="TxtSearch"
+                         Width="404"
+                         Height="25"
+                         Margin="5"
+                         
+                         />
+                
+                <ListBox x:Name="ListProduct"
+                         Background="Transparent"
+                         Width="650"
+                         BorderBrush="Transparent"
+                         >
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <ListBoxItem
+                                BorderBrush="Black"
+                                Background="White"
+                                Width="600"
+                                
+                                >
+
+                                <ListBoxItem.Resources>
+                                    <Style TargetType="{x:Type ListBoxItem}"
+                                           x:Key="LblRed">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Pdoduct.IsActive}"
+                                                         Value="0">
+                                                <Setter Property="Background" Value="Black"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </ListBoxItem.Resources>
+                                <ListBoxItem.Style>
+                                    <StaticResource ResourceKey="LblRed"/>
+                                </ListBoxItem.Style>
+                                <StackPanel Orientation="Vertical">
+                                    <TextBlock
+                                        x:Name="StringImage"
+                                        Visibility="Hidden"
+                                        Text="{Binding MainImagePath, StringFormat=..\{0\}}"
+                                        />
+                                    <Image Source="{Binding Text, ElementName=StringImage}" Style="{StaticResource ImgSource}"/>
+                                    <TextBlock Text="{Binding Titile}"
+                                               x:Name="TxtNameProduct"
+                                               Style="{StaticResource prdctTxtb}"/>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding Cost}"
+                                                  Style="{StaticResource prdctTxtb}" />
+                                        <TextBlock Text=" рублей"
+                                                       Style="{StaticResource prdctTxtb}"/>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal"
+                                                HorizontalAlignment="Left">
+                                        <Button x:Name="BtnEdit"
+                                                Style="{StaticResource mainBtn}"
+                                                Click="BtnEdit_Click"
+                                                Content="Редактировать"/>
+                                        <Button x:Name="BtnSaleHistory"
+                                                Style="{StaticResource mainBtn}"
+                                                Click="BtnSaleHistory_Click"
+                                                Content="История продаж"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </ListBoxItem>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </ScrollViewer>
+        <StackPanel VerticalAlignment="Bottom"
+                    Height="150"/>
+        <StackPanel VerticalAlignment="Bottom" Height="150">
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <RadioButton Name="RbUp" IsEnabledChanged="RbUp_IsEnabledChanged" Content="по возрастанию"/>
+                <RadioButton Name="RbDown" IsMouseCapturedChanged="RbDown_IsEnabledChanged" Content="по убыванию"/>
+            </StackPanel>
+            <DataGrid Name="gridListProduct" IsReadOnly="True" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Width="*" Binding="{Binding Title}" Header="название продукции"/>
+                    <DataGridTextColumn Width="*" Binding="{Binding Cost}" Header="цена"/>
+                    <DataGridTextColumn Width="*" Binding="{Binding Description}" Header="описание"/>
+                    <DataGridTextColumn Width="*" Binding="{Binding IsActive}" Header="в наличие"/>
+                    <DataGridTextColumn Width="*" Binding="{Binding ManufacturerId}" Header="компания"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Page>
